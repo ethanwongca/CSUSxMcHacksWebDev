@@ -1,0 +1,9 @@
+/*Outline for the a typical CSS file*/
+h1{ /*Element you want to style corresponding to html tag*/
+    /*Color: blue (this is how you insert a set style for css)*/
+    color: lightblue;
+}
+
+p {
+
+}
