@@ -115,6 +115,7 @@ Let's make out website pretty! <br \>
 ### Final Result
 <img width="1215" alt="Screenshot 2023-11-20 at 1 15 10 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/677c7f87-7d07-479c-b989-77f25190e412"> 
 ### Code for the CSS Portion
+
 ```
 body {
     font-family: 'Arial', sans-serif;
@@ -155,8 +156,8 @@ section {
 article {
     margin-bottom: 2em;
 }
-
 ```
+
 > Congratulations on Making Your Own Wiki
 
 
