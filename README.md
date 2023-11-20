@@ -108,7 +108,7 @@ Let's make the structure for the wiki page we are creating today! Don't worry if
 </body>
 </html>
 ```
-> Fun fact Github's README uses tags to break line and to link images
+> Fun fact Github's README uses tags to break lines and to link images
 
 ## CSS Portion
 Let's make out website pretty!
