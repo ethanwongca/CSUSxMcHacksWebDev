@@ -3,12 +3,12 @@ Welcome to the CSUS x McHacks Introduction to Web Development Workshop!  <br/>
 This documentation will help you navigate through this interactive workshop, so let's get started! <br/>
 
 ## Getting Started 
-Before we start please make sure you are on Microsoft Visual Studio Code <br/>
+Before we start please make sure you have dowloaded Microsoft Visual Studio Code <br/>
 The download link is the following: https://code.visualstudio.com/download <br/>
-Once you have Visual Studio Code, dowload the quokka extension as well <br/>
+Once you have Visual Studio Code, dowload the Quokka extension on VSCode <br/>
 
 ## Let's Code! 
-To get started can download the code from **outline.html** and **outline.css** <br />
+To get started download the files **outline.html** and **outline.css** from this repository<br />
 Or copy and paste it from here <br />
 ### Outline.html  <br />
 ```
