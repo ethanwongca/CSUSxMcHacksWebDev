@@ -162,7 +162,7 @@ article {
 > Congratulations on Making Your Own Wiki
 
 
-## Resources for your Web Development Journey
+## Resources for Your Web Development Journey
 Here are some useful resource for after the workshop. Good luck with your web development journey! <br />
 **Documentation**: https://developer.mozilla.org/en-US/ <br/>
 **Frameworks and Languages to Learn**: JavaScript, React.js, Angular.js, TypeScript <br/>
