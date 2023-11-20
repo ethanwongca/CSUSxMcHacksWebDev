@@ -9,8 +9,8 @@ Once you have Visual Studio Code, dowload the quokka extension as well
 
 ## Let's Code!
 To get started copy and paste the code from **outline.html** and **outline.css**
-If you have your setup properly you should have the following when you run your website on your local environment
-![Screenshot 2023-11-19 at 11 27 04 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/e21d43e5-0e48-4fcc-bfa0-0959b678360d)
+If you have your setup properly you should have the following when you run your website on your local environment <br />
+![Screenshot 2023-11-19 at 11 31 32 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/e3ec718e-6cb7-47ed-9128-820bd3d7ffb7) <br/>
 
 ##Resources for your Web Development Journey
 **Documentation**: https://developer.mozilla.org/en-US/
