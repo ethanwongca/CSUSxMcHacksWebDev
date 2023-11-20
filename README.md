@@ -53,7 +53,112 @@ If you setup properly you should have the following when you run your website on
 ![Screenshot 2023-11-19 at 11 31 32 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/e3ec718e-6cb7-47ed-9128-820bd3d7ffb7) <br/>
 
 > If you made your first website congratulations!
-    
+
+## HTML Portion
+Let's make the structure for the wiki page we are creating today! Don't worry if it isn't pretty, that is what CSS is for
+
+### Final Result 
+![Screenshot 2023-11-19 at 11 31 32 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/9cfad24d-42bc-4ce7-b969-55c649d529a1) <br\>
+
+### Code for the HTML Portion
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSUS x McHacks Event</title>
+    <link rel="stylesheet" href="outline.css">
+</head>
+<body>
+
+    <header>
+        <h1>CSUS Wiki</h1>
+    </header>
+
+    <nav>
+        <a href="#overview">Overview</a>
+        <a href="#people">People</a>
+        <a href="#events">Events</a>
+        <!-- add more to the navbar-->
+    </nav>
+
+    <section id="overview">
+        <article>
+            <h2>Overview</h2>
+            <p>The CSUS is an elected student group tasked with improving student academics and life in the computer science department. This includes discussing course changes with faculty, organizing events, collating student feedback, and promoting a sense of community.</p>
+        </article>
+    </section>
+
+    <section id="people">
+        <article>
+            <h2>People</h2>
+            <p>We have amazing people at CSUS</p>
+        </article>
+    </section>
+
+    <section id="events">
+        <article>
+            <h2>Events</h2>
+            <p>We have events all year! Like FYC events, mixers, and more!</p>
+        </article>
+    </section>
+
+</body>
+</html>
+```
+> Fun fact Github's README uses tags to break line and to link images
+
+## CSS Portion
+Let's make out website pretty! <br \>
+### Final Result
+<img width="1215" alt="Screenshot 2023-11-20 at 1 15 10 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/677c7f87-7d07-479c-b989-77f25190e412"> <br\>
+### Code for the CSS Portion
+```
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #26aae1;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    padding: 0.5em;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+}
+
+section {
+    max-width: 800px;
+    margin: 1em auto;
+    padding: 1em;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    margin-bottom: 2em;
+}
+
+```
+> Congratulations on Making Your Own Wiki
+
+
 ## Resources for your Web Development Journey
 Here are some useful resource for after the workshop. Good luck with your web development journey! <br />
 **Documentation**: https://developer.mozilla.org/en-US/ <br/>
