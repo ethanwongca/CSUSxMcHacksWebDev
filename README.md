@@ -58,11 +58,12 @@ If you setup properly you should have the following when you run your website on
 Let's make the structure for the wiki page we are creating today! Don't worry if it isn't pretty, that is what CSS is for
 
 ### Final Result 
-![Screenshot 2023-11-19 at 11 31 32 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/9cfad24d-42bc-4ce7-b969-55c649d529a1) <br\>
+<img width="1232" alt="Screenshot 2023-11-20 at 1 09 56 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/5460d781-d121-4a65-865e-9befa889aa22">
 
 ### Code for the HTML Portion
 ```
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -112,7 +113,7 @@ Let's make the structure for the wiki page we are creating today! Don't worry if
 ## CSS Portion
 Let's make out website pretty! <br \>
 ### Final Result
-<img width="1215" alt="Screenshot 2023-11-20 at 1 15 10 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/677c7f87-7d07-479c-b989-77f25190e412"> <br\>
+<img width="1215" alt="Screenshot 2023-11-20 at 1 15 10 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/677c7f87-7d07-479c-b989-77f25190e412"> 
 ### Code for the CSS Portion
 ```
 body {
