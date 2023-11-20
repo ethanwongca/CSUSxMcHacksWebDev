@@ -1,7 +1,9 @@
 # CSUS x McHacks Introduction to Web Development 
 Welcome to the CSUS x McHacks Introduction to Web Development Workshop!  <br/>
+   <br/>
 The slides for the workshop are accessible through this link: <br/>
 https://docs.google.com/presentation/d/1Cf836Xk-oPFjZ-ayoYAOPGvoY9IixWxDEn25VX6XBoU/edit#slide=id.g155acdc2e75_0_0 <br/>
+   <br/>
 This documentation will help you navigate through this interactive workshop, so let's get started! <br/>
 
 ## Getting Started 
