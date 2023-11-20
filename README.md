@@ -111,7 +111,7 @@ Let's make the structure for the wiki page we are creating today! Don't worry if
 > Fun fact Github's README uses tags to break line and to link images
 
 ## CSS Portion
-Let's make out website pretty! <br \>
+Let's make out website pretty!
 ### Final Result
 <img width="1215" alt="Screenshot 2023-11-20 at 1 15 10 AM" src="https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/677c7f87-7d07-479c-b989-77f25190e412"> 
 ### Code for the CSS Portion
