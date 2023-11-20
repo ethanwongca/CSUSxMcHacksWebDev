@@ -9,7 +9,7 @@ Once you have Visual Studio Code, dowload the quokka extension as well <br/>
 
 ## Let's Code! 
 To get started can download the code from **outline.html** and **outline.css** <br />
-Or Copy and Paste it from here <br />
+Or copy and paste it from here <br />
 ### Outline.html  <br />
 ```
 <!DOCTYPE <!DOCTYPE html>
@@ -48,7 +48,7 @@ If you setup properly you should have the following when you run your website on
 ### Proper Setup <br />
 ![Screenshot 2023-11-19 at 11 31 32 PM](https://github.com/ethanwongca/CSUSxMcHacksWebDev/assets/87055387/e3ec718e-6cb7-47ed-9128-820bd3d7ffb7) <br/>
 
-> If you got it great! Let's get started with the workshop. 
+> If you made your first website congratulations!
     
 ## Resources for your Web Development Journey
 Here are some useful resource for after the workshop. Good luck with your web development journey! <br />
